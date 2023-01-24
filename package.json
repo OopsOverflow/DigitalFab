@@ -1,0 +1,16 @@
+{
+  "name": "digitalfab",
+  "version": "1.0.0",
+  "description": "Digitalfab Journey",
+  "scripts": {
+    "format": "prettier --write . --ignore-path .gitignore"
+  },
+  "dependencies": {
+    "next": "^13.1.5",
+    "nextra": "^2.2.13",
+    "nextra-theme-docs": "^2.2.13",
+    "prettier": "^2.8.3",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
